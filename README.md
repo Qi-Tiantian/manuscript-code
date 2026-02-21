@@ -3,9 +3,7 @@
 This repository contains the complete source code to reproduce all results from the manuscript titled "Interpretable Predictive Model for Listed Companies ESG Greenwashing Based on XGBoost and SHAP" (Submitted to *Scientific Reports*). The code implements a machine learning model for binary classification, encompassing data preprocessing, handling class imbalance, hyperparameter tuning using the XGBoost algorithm, model performance evaluation, and interpretability analysis using the SHAP method.
 
 ## Repository DOI (Permanent Archive)
-[![DOI](https://zenodo.org/badge/DOI/)](https://doi.org/)
-
-*Note: Replace the above example DOI with your actual one from Zenodo after archiving.*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18723202.svg)](https://doi.org/10.5281/zenodo.18723202)
 
 ## Files in This Repository
 - `Model Prediction Results.ipynb`: The primary Jupyter Notebook containing the results of the corporate characteristics model and the external pressure characteristics model.
@@ -60,4 +58,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you use or build upon this code, please cite the associated manuscript and this code archive:
 
-> Zhang Jianfeng, Qi Tiantian. (2026). Interpretable Predictive Model for Listed Companies ESG Greenwashing Based on XGBoost and SHAP. *Scientific Reports* (Under Review). Code available at: https://doi.org/[Your-Actual-DOI]
+> Zhang Jianfeng, Qi Tiantian. (2026). Interpretable Predictive Model for Listed Companies ESG Greenwashing Based on XGBoost and SHAP. *Scientific Reports* (Under Review). Code available at: https://doi.org/10.5281/zenodo.18723202
+
